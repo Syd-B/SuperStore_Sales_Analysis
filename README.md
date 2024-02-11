@@ -9,6 +9,11 @@ Welcome to the Sales Dashboard project! My objective is to provide a comprehensi
 - **Sales Forecasting**: Leveraging advanced forecasting techniques, I predict sales for the upcoming 15 days based on historical data, aiding in strategic planning.
 - **Data Analysis Expertise**: Specialized techniques such as time series analysis have been employed to extract valuable insights, facilitating accurate sales forecasting and informed decision-making.
 
+## Screenshots
+![Dashboard](https://github.com/Syd-B/SuperStore_Sales_Analysis/blob/main/Screenshots/Screenshot%201.png)
+
+![Sales Forecast](https://github.com/Syd-B/SuperStore_Sales_Analysis/blob/main/Screenshots/Screenshot%202.png)
+
 ## Tools and Technologies:
 
 - **Microsoft Power BI**
